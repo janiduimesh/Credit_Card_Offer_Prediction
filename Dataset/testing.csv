@@ -1,0 +1,101 @@
+ID,Gender,Month_Income,Age,Occupation,Credit_Score,Loan_Status,Existing_Credit_Cards,Avg_Account_Balance,Account_Category,Tenure_with_Bank
+9W2CJGSP,Female,64230.0,32,Self_Employed,467,No,0,664580,Savings Account,3
+WMWAQLVG,Female,42820.0,42,Self_Employed,429,No,0,376407,Senior Citizens Account,3
+EWP6JUSN,Male,94725.0,55,Self_Employed,782,No,0,608724,Savings Account,10+
+6SSZBR88,Female,105250.0,24,Salaried,858,No,0,790168,Savings Account,5-10
+G2SOYDGX,Male,42820.0,48,Self_Employed,573,Yes,1,1429473,Current Account,2
+ER22PPXR,Male,73675.0,29,Other,808,No,0,760344,Savings Account,10+
+ALDPOJCG,Female,210500.0,32,Salaried,750,No,0,1831272,Savings Account,10+
+LW93KJMZ,Female,147350.0,45,Self_Employed,799,Yes,1,396254,Senior Citizens Account,5-10
+IDZXREAW,Female,107050.0,56,Self_Employed,507,Yes,1,1187927,Current Account,3
+YM6K64BT,Male,147350.0,61,Self_Employed,894,No,0,256800,Current Account,5-10
+DFCCYARC,Female,42820.0,29,Salaried,564,No,0,496771,Savings Account,1
+JXWUKN7D,Female,53525.0,34,Self_Employed,563,No,0,1585250,Current Account,3
+EB5NXKAE,Female,42820.0,53,Self_Employed,531,Yes,1,1826609,Current Account,1
+XXFTDOXZ,Female,107050.0,30,Other,332,Yes,1,1001953,Savings Account,1
+EGBCX69C,Male,107050.0,31,Salaried,490,No,0,375135,Savings Account,4
+TRD6FRUC,Female,42820.0,32,Salaried,579,No,0,840640,Savings Account,3
+G76GJDQJ,Female,74935.0,29,Salaried,315,No,0,1519256,Savings Account,5-10
+VNBXP7WW,Female,105250.0,44,Self_Employed,734,No,0,2822038,Current Account,5-10
+FV4XXLEM,Male,107050.0,56,Self_Employed,318,Yes,1,1859752,Current Account,3
+MRGTHHAV,Male,85640.0,31,Other,580,No,0,988870,Savings Account,5-10
+4ZX2U7KF,Female,199975.0,46,Entrepreneur,783,Yes,1,1576154,Senior Citizens Account,10+
+NZEALEJH,Female,73675.0,27,Salaried,820,No,0,998437,Savings Account,5-10
+NJ6NFQ8F,Female,168400.0,57,Self_Employed,707,Yes,1,953563,Current Account,10+
+GFGNKXMA,Male,85640.0,27,Salaried,530,No,0,494635,Savings Account,2
+SWWYDKWQ,Female,73675.0,54,Self_Employed,789,No,0,2658848,Senior Citizens Account,10+
+BQ59SNXC,Male,53525.0,51,Self_Employed,504,Yes,1,314276,Senior Citizens Account,2
+BK8HTJ3T,Male,74935.0,28,Salaried,541,No,0,418905,Savings Account,4
+CWVGYD2E,Female,74935.0,62,Other,565,Yes,1,7374353,Senior Citizens Account,1
+NSMAQJNJ,Female,73675.0,28,Other,732,No,0,672822,Savings Account,5-10
+9R7HFNKS,Male,105250.0,78,Other,759,No,0,569039,Senior Citizens Account,5-10
+6XSHTNWA,Female,53525.0,32,Salaried,474,No,0,460049,Savings Account,1
+3ZHKVKVP,Male,84200.0,26,Salaried,814,No,0,865017,Savings Account,5-10
+DGDJEMQD,Male,178925.0,49,Other,792,No,0,1345154,Senior Citizens Account,10+
+4BDKN72D,Male,85640.0,27,Other,492,No,0,661946,Savings Account,4
+LZVVSZYX,Female,42820.0,49,Self_Employed,482,Yes,1,382005,Senior Citizens Account,4
+ZUKGH4J2,Female,94725.0,59,Self_Employed,700,No,0,4315147,Current Account,10+
+9UF9FNQO,Male,64230.0,33,Salaried,353,No,0,516751,Savings Account,3
+MTD9M5LH,Male,85640.0,26,Other,442,No,0,505466,Savings Account,3
+TX4DJGUM,Male,74935.0,26,Salaried,392,Yes,1,585584,Savings Account,4
+9Q7SAAIA,Male,126300.0,26,Salaried,843,No,0,678918,Savings Account,5-10
+7IVVAOXY,Male,73675.0,50,Self_Employed,851,Yes,1,1047129,Senior Citizens Account,5-10
+CV3TI9GX,Female,115775.0,48,Self_Employed,780,No,0,770045,Current Account,10+
+6SPDUH2K,Male,42820.0,27,Other,546,No,0,311731,Savings Account,3
+BYDZ9JZM,Female,53525.0,39,Self_Employed,610,Yes,1,1386477,Current Account,3
+HFJZSDMB,Female,53525.0,34,Salaried,562,Yes,1,1445386,Savings Account,1
+LCHCYAGL,Male,210500.0,42,Self_Employed,857,Yes,1,1220875,Savings Account,10+
+ITW5GOQV,Male,178925.0,48,Self_Employed,720,No,0,482629,Current Account,5-10
+JRJTBSW6,Male,210500.0,73,Other,810,No,0,1275183,Current Account,10+
+MTKLP46N,Male,105250.0,40,Other,721,Yes,1,1744373,Senior Citizens Account,5-10
+MEFHRMHH,Female,64230.0,52,Self_Employed,452,Yes,1,529986,Savings Account,5-10
+5IU3TZVV,Female,178925.0,45,Self_Employed,724,No,0,3004978,Investment Account,5-10
+T5DPZKNS,Male,96345.0,27,Other,352,No,0,4437860,Savings Account,1
+WUYID6RY,Male,105250.0,36,Salaried,706,Yes,1,498907,Senior Citizens Account,10+
+KKLQC6MN,Female,42820.0,26,Salaried,371,No,0,1178671,Savings Account,5-10
+EVRJMDR8,Female,64230.0,26,Other,493,No,0,1021248,Savings Account,3
+D9JFEMXL,Male,96345.0,38,Self_Employed,521,Yes,1,471504,Senior Citizens Account,3
+F8JJK9L8,Female,74935.0,29,Salaried,581,No,0,1202861,Savings Account,2
+HKYHXPUC,Male,42820.0,42,Self_Employed,549,Yes,1,453561,Current Account,5-10
+GWSGDWWX,Female,73675.0,30,Salaried,863,Yes,1,539420,Savings Account,10+
+DESX3YNB,Male,64230.0,47,Other,495,Yes,1,2230713,Senior Citizens Account,5-10
+B29TNHRZ,Male,53525.0,47,Self_Employed,340,Yes,1,2551042,Senior Citizens Account,4
+RHWGQRSG,Male,96345.0,42,Self_Employed,616,Yes,1,402066,Current Account,3
+QRGIC4EY,Female,189450.0,54,Other,701,Yes,1,1023437,Senior Citizens Account,10+
+9ZOMJA46,Female,96345.0,31,Salaried,354,No,0,593443,Savings Account,4
+YOXKJ34Z,Female,64230.0,43,Self_Employed,625,Yes,1,2792321,Senior Citizens Account,1
+EUCCQVQ7,Male,53525.0,31,Salaried,502,No,0,382513,Savings Account,1
+2NDQJLZG,Female,210500.0,46,Self_Employed,811,No,0,416742,Current Account,10+
+ICRRTFMY,Female,94725.0,42,Self_Employed,887,No,0,616592,Savings Account,10+
+NVK4GHJV,Male,107050.0,29,Salaried,571,No,0,1298340,Savings Account,3
+NVE9CEVA,Female,85640.0,72,Other,349,No,0,543220,Current Account,3
+MTC452NE,Female,94725.0,47,Other,752,No,0,960817,Current Account,10+
+FSSFIDHX,Female,189450.0,48,Self_Employed,718,No,0,797982,Current Account,10+
+95VRNUJX,Male,136825.0,26,Salaried,866,No,0,666992,Savings Account,5-10
+4DJOSS2A,Male,85640.0,64,Other,550,No,0,1939906,Senior Citizens Account,4
+R5QARXQ8,Male,42820.0,33,Salaried,478,No,0,490835,Savings Account,3
+PGSDEYKT,Female,105250.0,48,Self_Employed,704,No,0,968711,Senior Citizens Account,5-10
+ZGSTYTWN,Male,168400.0,42,Self_Employed,900,No,0,936280,Current Account,10+
+34WTCX2D,Male,126300.0,63,Other,803,Yes,1,728153,Senior Citizens Account,10+
+N54YMVAA,Male,42820.0,30,Salaried,430,No,0,814572,Savings Account,1
+A5GKRASF,Female,74935.0,44,Self_Employed,535,Yes,1,848259,Senior Citizens Account,4
+UYO4UZDV,Female,53525.0,29,Salaried,569,No,0,977006,Savings Account,4
+AFINPKCJ,Female,85640.0,29,Other,511,Yes,1,512052,Savings Account,2
+KPUCZ4HZ,Male,199975.0,29,Salaried,794,No,0,422794,Savings Account,10+
+UVYCHHIA,Male,42820.0,31,Salaried,618,No,0,2914954,Savings Account,3
+7OBBPSYV,Male,199975.0,47,Salaried,884,No,0,882408,Senior Citizens Account,5-10
+HKX5VFAF,Female,96345.0,31,Other,613,Yes,1,747048,Savings Account,2
+H9UZTCWJ,Female,64230.0,24,Salaried,348,No,0,490630,Savings Account,1
+ADWQAEXW,Female,210500.0,48,Self_Employed,741,No,0,1618376,Current Account,10+
+9TYUP69Q,Female,73675.0,49,Self_Employed,716,No,0,640915,Senior Citizens Account,10+
+YDGGEFN5,Male,210500.0,57,Salaried,704,Yes,1,1527774,Senior Citizens Account,5-10
+JCIQPZLE,Male,64230.0,25,Salaried,391,No,0,362541,Savings Account,2
+H8HPHTRM,Female,85640.0,58,Self_Employed,636,No,0,956936,Current Account,3
+A7SNTT7C,Female,147350.0,32,Salaried,763,No,0,928706,Savings Account,5-10
+ROJWAXWS,Female,73675.0,70,Other,767,No,0,1090570,Current Account,5-10
+6DWUV7AM,Male,107050.0,36,Self_Employed,478,Yes,1,1309991,Senior Citizens Account,3
+3JUOUPZW,Male,73675.0,40,Self_Employed,897,No,0,484480,Current Account,5-10
+7DOVBFHW,Female,126300.0,57,Other,700,No,0,1271427,Current Account,10+
+KI2RYLB6,Female,42820.0,26,Salaried,633,Yes,1,939314,Savings Account,1
+SHSVDYZK,Male,115775.0,50,Self_Employed,712,Yes,1,612426,Senior Citizens Account,10+
+9BLLFPRV,Male,210500.0,40,Self_Employed,773,No,0,1103181,Current Account,10+
